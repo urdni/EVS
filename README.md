@@ -1,6 +1,5 @@
 # EVS
-testing
-The is CRUID operation of health records using .netCore & entity framework core, MVC application .
+CRUD operations of health records using .netCore & entity framework core, MVC application .
 
 List Health Reards,
 Create Records,
