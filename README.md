@@ -7,7 +7,7 @@ Create Records,
 Update Records,
 Delete Records
 
-rerequite:
+Pre-requite:
 .Netcore 2.0
 EFCORE
 Visual Studio 2019
