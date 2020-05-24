@@ -2,9 +2,9 @@
 testing
 The is CRUID operation of health records using .netCore & entity framework core, MVC application .
 
-List Health Reards
-Create Records
-Update Records
+List Health Reards,
+Create Records,
+Update Records,
 Delete Records
 
 rerequite:
